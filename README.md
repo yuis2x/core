@@ -33,8 +33,8 @@ A modern userscript for taking notes on any webpage with an intuitive Preact-bas
    - [Violentmonkey](https://violentmonkey.github.io/)
 
 2. **Install the script**
-   - Download [userscript.js](userscript.js)
-   - Import into your userscript manager
+   - **One-click install**: [main.user.js](main.user.js)
+   - Your userscript manager will open automatically
 
 3. **⭐ Star this repository** to support the project!
 

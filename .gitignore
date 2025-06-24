@@ -55,6 +55,13 @@ todo.md
 .env.test.local
 .env.production.local
 
+# Confidential documentation
+claude.secret.md
+claude.log
+
+# Internal tools and scripts
+project-internals/
+
 # Archive files
 *.zip
 *.tar
